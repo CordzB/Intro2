@@ -4,16 +4,14 @@
              xmlns:local="clr-namespace:Intro2.pages"
              x:Class="Intro2.MainPage">
     <local:Pestana1  />
+    <local:Pestana2  />
+    <local:Pestana3  />
 
-    <ContentPage Title="Pestaña2">
+
+     
+    <ContentPage Title="Pestaña4">
         <StackLayout>
-            <Label Text="Estoy en pestaña2" />
-        </StackLayout>
-    </ContentPage>
-    
-    <ContentPage Title="Pestaña3">
-        <StackLayout>
-            <Label Text="Estoy en pestaña3" />
+            <Label Text="Estoy en pestaña4 con content page"  />
         </StackLayout>
     </ContentPage>
 
